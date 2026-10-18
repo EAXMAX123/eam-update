@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
-  "url": "https://gh-proxy.com/https://github.com/EAXMAX123/eam-update/releases/download/v1.4.5/EAXManager-v1.4.5.apk",
-  "notes": "【修复】顶栏那颗「求赞助」胶囊扁了四分之一，左边的小人换成图标里那只猫娘，全身和手里的书都不会被裁掉。\n【修复】彩蛋画面改成横屏等比例铺满，不再缩在屏幕顶上。\n【彩蛋】那颗胶囊好像不太经戳，一直戳下去有惊喜；彩蛋得装在手机上才放得出来。"
+  "version": "1.7.2",
+  "url": "https://gh-proxy.com/https://github.com/EAXMAX123/eam-update/releases/download/v1.7.2/EAXManager-v1.7.2.apk",
+  "notes": "【新增】Rule34 不填 API Key 也能搜了：自动走网页版，搜到的图片照样能下载、进书架、正常阅读。\n【新增】填了 Key 仍然走官方接口，速度更快；两种方式随时在设置里切换。\n【修复】装好新版本第一次打开会弹出本版公告，只弹一次，之后到「关于 → 公告」回看。"
 }
