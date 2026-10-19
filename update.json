@@ -1,5 +1,5 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.4/EAXManager-v1.7.4.apk",
-  "notes": "【新增】本地本子详情页可分享 PDF，设置里可加打开密码；赞助者新增「霜花」皮肤；关于软件新增官网入口。\n【修复】设置页重新整理；修好图片很多时翻页错乱、音量键翻页跳动；清理霜花图标边缘残留。\n【公开】1.7.4 正式公开，可直接在更新仓库下载安装包。"
+  "version": "1.7.5",
+  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.5/EAXManager-v1.7.5.apk",
+  "notes": "【修复】赞助者「霜花」皮肤的十张导航图统一重做圆形透明边缘；「发现」等图标外圈的浅色毛边、锯齿和杂色已清理；霜花角色头像外圈白边一并修复，浅色与深色背景下都不再露边。"
 }
