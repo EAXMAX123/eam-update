@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
-  "url": "https://gh-proxy.com/https://github.com/EAXMAX123/eam-update/releases/download/v1.7.2/EAXManager-v1.7.2.apk",
-  "notes": "【新增】Rule34 不填 API Key 也能搜了：自动走网页版，搜到的图片照样能下载、进书架、正常阅读。\n【新增】填了 Key 仍然走官方接口，速度更快；两种方式随时在设置里切换。\n【修复】装好新版本第一次打开会弹出本版公告，只弹一次，之后到「关于 → 公告」回看。"
+  "version": "1.7.4",
+  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.4/EAXManager-v1.7.4.apk",
+  "notes": "【新增】本地本子详情页可分享 PDF，设置里可加打开密码；赞助者新增「霜花」皮肤；关于软件新增官网入口。\n【修复】设置页重新整理；修好图片很多时翻页错乱、音量键翻页跳动；清理霜花图标边缘残留。\n【公开】1.7.4 正式公开，可直接在更新仓库下载安装包。"
 }
