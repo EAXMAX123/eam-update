@@ -1,5 +1,5 @@
 {
-  "version": "1.7.5",
-  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.5/EAXManager-v1.7.5.apk",
-  "notes": "【修复】赞助者「霜花」皮肤的十张导航图统一重做圆形透明边缘；「发现」等图标外圈的浅色毛边、锯齿和杂色已清理；霜花角色头像外圈白边一并修复，浅色与深色背景下都不再露边。"
+  "version": "1.7.6",
+  "url": "https://github.com/EAXMAX123/eam-update/releases/download/v1.7.6/EAXManager-v1.7.6.apk",
+  "notes": "本地已打包 PDF 现在可以直接分享；已打包页保留长期缓存，可搜索、分享或删除；修复下载目录 PDF 分享失败的问题。"
 }
